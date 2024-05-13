@@ -52,7 +52,7 @@ To run the code in this repository, make sure you have the following dependencie
 - matplotlib >= 2.2.3
 
 ## Citing the Author
-If you use this code or the EEGNet model architecture in your work, please cite the following paper:
+If you use this code or the EEGNet model architecture in your work, please cite the original paper of the orignal model:
 
 [Vernon J Lawhern, Amelia J Solon, Nicholas R Waytowich, Stephen M Gordon, Chou P Hung, Brent J Lance. EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. Journal of Neural Engineering, 2018.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
 
