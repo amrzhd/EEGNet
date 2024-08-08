@@ -37,15 +37,10 @@ For further details, refer to the original [EEGNet implementation](https://githu
 
 ### Training Loop
 - Optimizer: Adam
-- Batch size: 128
+- Batch size: 64
 - Epochs: 500
 - Learning Rate: 0.001
 - Loss Function: Cross Entropy
-
-## K-Fold Cross Validation
-- 4 Folds
-- Resetting weights each time
-- SEM of the results is considered
 
 ## Requirements
 To run the code in this repository, make sure you have the following dependencies installed:
