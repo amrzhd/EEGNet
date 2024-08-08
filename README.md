@@ -7,11 +7,11 @@ Welcome to the EEGNet for Motor Imagery Classification repository! This project 
 The EEG data used in this project is sourced from the [BCI Competition IV 2a](http://www.bbci.de/competition/iv/#dataset2a) dataset. Key characteristics of the dataset include:
 - 22 Ag/AgCl Electrodes
 - Sampling Frequency: 250 Hz
-- Epoched Data: [3.75, 5,75] seconds
+- Epoched Data: [2, 6] seconds
 - Frequency Range: 0.5 - 100 Hz
-- High Pass Filtered: Over 4Hz (Using FIR Filter)
+- High Pass Filtered: 4-40Hz (Using IIR Filter)
 - 4 Classes: Left Hand, Right Hand, Foot, Tongue
-
+- Both sessions of data (T & E) were used!
 ### List of Events
 The following events are annotated in the dataset:
 - '1023': 1 Rejected trial
