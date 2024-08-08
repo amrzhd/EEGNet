@@ -9,7 +9,7 @@ The EEG data used in this project is sourced from the [BCI Competition IV 2a](ht
 - Sampling Frequency: 250 Hz
 - Epoched Data: [2, 6] seconds
 - Frequency Range: 0.5 - 100 Hz
-- High Pass Filtered: 4-40Hz (Using IIR Filter)
+- Band Pass Filtered: 4 - 40 Hz (Using IIR Filter)
 - 4 Classes: Left Hand, Right Hand, Foot, Tongue
 - Both sessions of data (T & E) were used!
 ### List of Events
