@@ -36,7 +36,7 @@ The EEGNet model architecture used in this project is detailed below:
 
 For further details, refer to the original [EEGNet implementation](https://github.com/vlawhern/arl-eegmodels/tree/master).
 
-### Training Loop
+### Training Setup
 - Optimizer: Adam
 - Batch size: 64
 - Epochs: 500
