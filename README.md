@@ -5,6 +5,7 @@ Welcome to the EEGNet for Motor Imagery Classification repository! This project 
 
 ## Dataset
 The EEG data used in this project is sourced from the [BCI Competition IV 2a](http://www.bbci.de/competition/iv/#dataset2a) dataset. Key characteristics of the dataset include:
+- 9 Participants
 - 22 Ag/AgCl Electrodes
 - Sampling Frequency: 250 Hz
 - Epoched Data: [2, 6] seconds
@@ -51,8 +52,11 @@ To run the code in this repository, make sure you have the following dependencie
 - scikit-learn >= 0.20.1
 - matplotlib >= 2.2.3
 
-## Citing the Author
+## References
 If you use this code or the EEGNet model architecture in your work, please cite the original paper of the orignal model:
 
-[Vernon J Lawhern, Amelia J Solon, Nicholas R Waytowich, Stephen M Gordon, Chou P Hung, Brent J Lance. EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. Journal of Neural Engineering, 2018.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
+[Lawhern, V. J., Solon, A. J., Waytowich, N. R., Gordon, S. M., Hung, C. P., & Lance, B. J. (2018). EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. Journal of neural engineering, 15(5), 056013.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
 
+If you used the dataset in your work, please cite the original paper of it:
+
+[Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
