@@ -55,8 +55,8 @@ To run the code in this repository, make sure you have the following dependencie
 ## References
 If you use this code or the EEGNet model architecture in your work, please cite the original paper of the orignal model:
 
-[Lawhern, V. J., Solon, A. J., Waytowich, N. R., Gordon, S. M., Hung, C. P., & Lance, B. J. (2018). EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. Journal of neural engineering, 15(5), 056013.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
+[V. J. Lawhern, A. J. Solon, N. R. Waytowich, S. M. Gordon, C. P. Hung, and B. J. Lance, "EEGNet: A compact convolutional neural network for EEG-based brain–computer interfaces," Journal of Neural Engineering, vol. 15, no. 5, p. 056013, 2018.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
 
 If you used the dataset in your work, please cite the original paper of it:
 
-[Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
+[C. Brunner, R. Leeb, G. Müller-Putz, A. Schlögl, and G. Pfurtscheller, "BCI Competition 2008–Graz data set A," Institute for Knowledge Discovery (Laboratory of Brain-Computer Interfaces), Graz University of Technology, vol. 16, pp. 1-6, 2008.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
